@@ -4,11 +4,11 @@ This project contains a machine learning model used to predict customer loyalty 
 ## Repository Structure
 
 ```bash
-├── models/
+├── model/
 │   ├── model.pkl
 │   ├── label_encoder.pkl
 │
-├── notebooks/
+├── notebook/
 │   ├── Customer-Loyalty-Prediction-Model.ipynb
 │
 ├── script/

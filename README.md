@@ -23,8 +23,8 @@ This project contains a machine learning model used to predict customer loyalty 
 - **Algorithm**: Random Forest Regressor
 - **Input Features**:
   - `Age`: Integer representing the age of the customer.
-  - `Annual Income`: Float representing the customer's annual income.
-  - `Purchase Amount`: Float representing the amount the customer spent.
+  - `Annual Income`: Integer representing the customer's annual income.
+  - `Purchase Amount`: Integer representing the amount the customer spent.
   - `Region`: The region where the customer is located (`North`, `South`, `West`, `East`).
   - `Purchase Frequency`: Integer representing how frequently the customer makes purchases.
   
